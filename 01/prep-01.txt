@@ -1,0 +1,34 @@
+Exercise 1.
+
+  Absolute or relative paths?
+  
+  /home/cshome/u/username  absolute
+                  244/bin  relative
+                  /bin/ls  absolute
+                 bin/sort  relative
+              /usr/bin/wc  absolute
+   home/cshome/u/username  relative
+     ../cshome/u/username  relative
+                 ~/newdir  absolute
+                /bin/sort  absolute
+
+Exercise 2.
+
+  Files in /home/cshome/coursework/244/files/01
+
+  Alice.txt   Daniel.jpg   France.jpg   sample-text.txt
+  another_directory   dirl   greeting.txt
+
+  Files in /home/cshome/coursework/244/files/01/dir1
+
+  1file.txt   another_file.txt   long-list-files.txt
+
+Exercise 3.
+
+  1. ctrl-a
+  2. ctrl-e
+  3. ctrl-k
+  4. ctrl-x 2
+  5. ctrl-x 1
+  6. clear screen
+  7. ctrl-a, ctrl-e

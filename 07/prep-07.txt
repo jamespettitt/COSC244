@@ -1,0 +1,24 @@
+1) This class is used for decoding incoming streams of bytes to produce streams of characters
+
+2) Wrapping the InputStreamReader within a BufferedReader.
+   BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+
+3) readLine() - a String containing the contents of the line. Or null if end is reached
+
+4) Nothing (return type void). It prints a String and then terminates the line
+
+5) This constructs an instance of the ServerSocket class with the parameter port - the port number of the port which the ServerSocket will listen to (bound to)
+
+6) Listens for a connection to be made and accepts it unless an exception is caught. It returns 's' - the new socket
+
+7) Socket(InetAddress address, int port) - IP address and port number
+
+8) The input stream from the Socket it's called on for reading bytes
+
+9) getOutputStream()
+
+10) The time at which it was allocated, measured to the nearest millisecond
+
+11) System.out.println(Date().toString());
+
+12) <port> is which we are using to communicate, [host] is the machine which we are trying to talk to

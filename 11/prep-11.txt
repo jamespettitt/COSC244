@@ -1,0 +1,16 @@
+1) pass line to output stream
+
+2) output stream
+
+3) returns the id
+
+4) no, the count never decrements when someone disconnects
+
+5) 13, 21-24  
+
+6) 13
+
+7) 1 "main" thread is listening for more clients, 3 "ClientHandler" threads which are listening to the current clients,
+Client: "main thread" and 2 are reading/ writing threads (x3)
+
+

@@ -1,0 +1,14 @@
+1) Returns the local port number to which this socket is bounded
+
+2) Returns the address to which the socket is connected
+
+3) Returns the remote port number to which this socket is connected
+
+4) Prints the address the socket is connected to, prints remote port number the
+   socket is connected to, prints the local port number to which the socket
+   is bounded
+   
+5) Prints the address the socket is connected to, prints the remote port number
+   the socket is connected to and prints the local port number the socket is
+   connected to
+

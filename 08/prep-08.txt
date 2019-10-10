@@ -1,0 +1,17 @@
+1) Declare a class to be a subclass of Thread. This new subclass will override the run() method in Thread
+
+Declare a class that implements the Runnable interface. Our class can use the run() method. An instance of this class can then be created, passed an argument when creating the Thread and started.
+
+2) run()
+
+3) start()
+
+4) 11-15
+
+5) Create Threads for handling input to InputStream and output from OuputStream
+
+6) unsure , i don't think so
+
+7) 
+
+8) Threads may wake while others are still running so the CPU has to give control to the Thread that's waking and then change back to the one that was already running
